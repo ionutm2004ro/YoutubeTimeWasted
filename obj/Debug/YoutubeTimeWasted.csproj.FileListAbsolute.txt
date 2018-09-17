@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\YoutubeTimeWasted\YoutubeTimeWasted\bin\Debug\YoutubeTimeWasted.exe.config
+C:\Users\USER\source\repos\YoutubeTimeWasted\YoutubeTimeWasted\bin\Debug\YoutubeTimeWasted.exe
+C:\Users\USER\source\repos\YoutubeTimeWasted\YoutubeTimeWasted\bin\Debug\YoutubeTimeWasted.pdb
+C:\Users\USER\source\repos\YoutubeTimeWasted\YoutubeTimeWasted\obj\Debug\YoutubeTimeWasted.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\YoutubeTimeWasted\YoutubeTimeWasted\obj\Debug\YoutubeTimeWasted.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\YoutubeTimeWasted\YoutubeTimeWasted\obj\Debug\YoutubeTimeWasted.exe
+C:\Users\USER\source\repos\YoutubeTimeWasted\YoutubeTimeWasted\obj\Debug\YoutubeTimeWasted.pdb
